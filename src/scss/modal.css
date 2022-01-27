@@ -50,6 +50,7 @@
     animation: fade .8s;
 }
 
+
 .close {
     z-index: 9999;
     float: right;

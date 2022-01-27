@@ -1,0 +1,35 @@
+.news {
+  width: 46vw;
+}
+
+.label {
+  text-align: center;
+  display: block;
+  background: #e81d55;
+  color: #ffffff;
+  padding: 0.4vw;
+  cursor: help;
+  width: 30px;
+  margin-bottom: 14px;
+}
+
+.news-title {
+  font-size: 16px;
+  font-family: "helvetica-black",Arial,Helvetica,sans-serif;
+  margin-bottom: 15px;
+  font-weight: 800;
+  text-transform: uppercase;
+  text-align: left;
+  letter-spacing: 0;
+}
+
+.news-img {
+  width: 80%;
+}
+
+.full-text {
+  font-family: "helvetica-black",Arial,Helvetica,sans-serif;
+  font-size: 16px;
+  line-height: 1.8vw;
+  letter-spacing: .052vw;
+}

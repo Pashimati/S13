@@ -1,0 +1,15 @@
+import './scss/header.scss'
+import './scss/normalaze.scss'
+import './scss/variabls.scss'
+import './scss/section.scss'
+import './scss/footer.scss'
+import './scss/login-form.scss'
+import './scss/search.scss'
+import './scss/news.scss'
+import './scss/modal.css'
+
+
+import './module/forms.component'
+import './module/header.component'
+import './module/article'
+import './module/modal'

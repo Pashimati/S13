@@ -79,6 +79,7 @@ function _initEventListener() {
             const article = getCurrentArticle(id)
             renderModal(article)
             close()
+
         })
     })
 
